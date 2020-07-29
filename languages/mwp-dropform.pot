@@ -1,0 +1,55 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MWP Dropzone Uploader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-29 15:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: mwp-dropform.php:199
+msgid "Error while processing file"
+msgstr ""
+
+#: mwp-dropform.php:187
+msgid "Error: "
+msgstr ""
+
+#: mwp-dropform.php:205
+msgid "File uploaded"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://mwp-development.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "MWP Development"
+msgstr ""
+
+#. Name of the plugin
+msgid "MWP Dropzone Uploader"
+msgstr ""
+
+#: mwp-dropform.php:212
+msgid "Security check failed!"
+msgstr ""
+
+#: mwp-dropform.php:210
+msgid "There is nothing to upload!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
