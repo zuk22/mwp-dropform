@@ -1,6 +1,8 @@
 # WordPress frontend file upload form with DropzoneJS
 
-The WordPress plugin which allow upload users files from front end by using DropzoneJS JavaScript library. Plugin created for tutorial [Tutorial](https://mwp-development.com/wordpress-frontend-file-upload-form-dropzonejs/)
+The WordPress plugin which allow upload users files from front end by using DropzoneJS JavaScript library. Plugin created for tutorial. 
+
+You can find tutorial here [Tutorial](https://mwp-development.com/wordpress-frontend-file-upload-form-dropzonejs/)
 
 ## Usage
 
