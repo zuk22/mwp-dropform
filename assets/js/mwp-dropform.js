@@ -1,9 +1,9 @@
 (function( $ ) {
 	'use strict';
 
+	Dropzone.autoDiscover = false; // Disable auto discover to prevent Dropzone being attached twice
+	
 	$( document ).ready(function() {
-
-		Dropzone.autoDiscover = false; // Disable auto discover to prevent Dropzone being attached twice
 		
 		// init DropzoneJS
 		var myDropzone = new Dropzone("div#mwp-dropform-uploder", {
